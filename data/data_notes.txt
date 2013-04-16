@@ -7,4 +7,17 @@ Inital setup:
 - extract character IDs and event (killed) == edges
 - extract character IDs and Character name == nodes
 
+Possible network dataset output:
 
+Derived from D3.js example: http://bl.ocks.org/mbostock/4062045
+"nodes":[
+    {"name":"Myriel","group":1},
+    {"name":"Napoleon","group":1},
+    ],
+  "links":[
+    {"source":1,"target":0,"value":1},
+    {"source":2,"target":0,"value":8},
+    ]
+    }
+
+Or just create a NetworkX file
