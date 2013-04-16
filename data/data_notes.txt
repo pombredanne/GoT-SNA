@@ -1,0 +1,10 @@
+GoT SNA Notes
+
+- events.csv: provides character IDs, events, and details of event.
+- characters.csv: provides characterID, Birth Name, and isDead/Captured/Hurt
+
+Inital setup:
+- extract character IDs and event (killed) == edges
+- extract character IDs and Character name == nodes
+
+
