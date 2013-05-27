@@ -10,6 +10,6 @@ Reqs:
 - iPython
 - Pandas (modifying GoT dataset)
 - NetworkX (performing network analysis, graph, and clustering)
-- D3.js (web-based visualizations)
+- D3.js (web-based visualizations) -> force layout tutorial, at some point
 - Neo4j w/ Gremlin (graph DB for storing network relationships)
 
